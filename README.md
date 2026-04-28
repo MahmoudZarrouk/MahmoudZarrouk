@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Mahmoud Zarrouk
-### Full Stack Developer | .NET Core & React Frontend 
+### Full Stack Developer | .NET Core & React Frontend | Database & Web Enthusiast
 
-![Dynamic Banner](https://media.giphy.com/media/3o7aCV9E3N2WkQWzZm/giphy.gif)
+![Dynamic Banner](https://raw.githubusercontent.com/MahmoudZarrouk/RepoName/main/banner.gif)
 
 ---
 
